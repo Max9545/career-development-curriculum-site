@@ -7,7 +7,7 @@ title: Career Journal Template
 
 ### Mod 1 
 
-Week 1: [Link here to your gist]
+Week 1: [https://gist.github.com/Max9545/f5a8ded9925f9e2c4833584e24045dbf]
 - [ ] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
